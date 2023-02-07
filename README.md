@@ -8,3 +8,11 @@ Data Science Portfoilo
 * Understanding the relationship btw variables
 * Applying PCA 
 * Model Applications
+
+# Project 2: Analysing Vibration Data to Predict Machine's Health Index
+* Data Merging
+* Feature Extraction
+* Model Selection
+* Hyperparameter Tuning
+* Results on All Datasets
+* Conclusion
